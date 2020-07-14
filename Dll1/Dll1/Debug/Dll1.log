@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Dll1.cpp
+c:\users\brgur\source\repos\dll1\dll1\dllmain.cpp(3): warning C4447: 'main' signature found without threading model. Consider using 'int main(Platform::Array<Platform::String^>^ args)'.
+     Creating library C:\Users\brgur\source\repos\Dll1\Debug\Dll1\Dll1.lib and object C:\Users\brgur\source\repos\Dll1\Debug\Dll1\Dll1.exp
+  Dll1.vcxproj -> C:\Users\brgur\source\repos\Dll1\Debug\Dll1\Dll1.dll
